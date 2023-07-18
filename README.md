@@ -15,6 +15,10 @@ Throughout my career, I would always think of ways to improve our processes whil
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
+### [Bank Tech Test](https://github.com/hanguyen21/Bank-tech-test)
+_"A solo project and small test-driven program to interact with the command line and log finances."_
+
+Here, I worked off acceptance criterias to create user stories and write a program in Ruby / RSpec using BDD and best OOP practices.
 ## Work Experience
 
 **Company Name** (start-date to end-date)  
