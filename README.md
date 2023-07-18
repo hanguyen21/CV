@@ -1,6 +1,12 @@
 ## HA NGUYEN
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I have recently graduated from Makers Academy, having realised a lifelong passion for software development. I am passionate about Ruby and Javascript with a thirst for discovering new languages and frameworks.
+
+With a background in Digital Marketing, I have developed a strong set of problem solving, collaborative and management skills.
+
+I love programming as it gives me the freedom to create and innovate and it offers the opportunity to push exciting new boundaries while improving user experiences.
+
+Throughout my career, I would always think of ways to improve our processes while keeping abreast of innovations in the sector and I am now particularly excited to be able to use my technical knowledge to build solutions to help solve real world problems, whether in my personal projects or in a workplace.
 
 ## Projects
 
