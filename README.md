@@ -16,23 +16,23 @@ Throughout my career, I would always think of ways to improve our processes whil
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ### [Whatever the Weather](https://github.com/hanguyen21/Whatever-the-Weather)
-_"A travel app that gives you activity recommendations for each day of your trip, based on a live weather forecast."_
+_"A travel webapp that gives you activity recommendations for each day of your trip, based on a live weather forecast."_
 
 In this group project, we used:
-- **Javascript** for the backend
-- **HTML/CSS** for the frontend
+- **Javascript, Express** for the backend
+- **HTML/CSS, React** for the frontend
 - **Cypress/Jest** for TDD
 
 ### [Bank Tech Test](https://github.com/hanguyen21/Bank-tech-test)
 _"A solo project and small test-driven program to interact with the command line and log finances."_
 
-Here, I worked off acceptance criterias to create user stories and write a program in Ruby / RSpec using BDD and best OOP practices.
+Here, I worked off acceptance criterias to create user stories and write a program in Javascript / Jest using BDD and best OOP practices.
 ### [Acebook](https://github.com/hanguyen21/acebook-airbenders)
 _"A web app inspired by Facebook."_
 
 In this group project, we used:
-- **Javascript** for the backend
-- **HTML/CSS** for the frontend
+- **Javascript, Express** for the backend
+- **HTML/CSS, React** for the frontend
 - **Cypress/Jest** for TDD
 - Database management with **MongoDB** and **Cloudinary** for media files
 - Deployed via **Render**
