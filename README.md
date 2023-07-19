@@ -10,11 +10,6 @@ Throughout my career, I would always think of ways to improve our processes whil
 
 ## Projects 👨🏻‍💻
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
 ### [Whatever the Weather](https://github.com/hanguyen21/Whatever-the-Weather)
 _"A travel webapp that gives you activity recommendations for each day of your trip, based on a live weather forecast."_
 
@@ -36,6 +31,14 @@ In this group project, we used:
 - **Cypress/Jest** for TDD
 - Database management with **MongoDB** and **Cloudinary** for media files
 - Deployed via **Render**
+
+## Certifications 
+#### [AWS Certified Cloud Practitioner](https://www.credly.com/badges/360db361-8c3d-41f4-9af2-c68ce25c1993/linked_in_profile)
+_"The AWS Certified Cloud Practitioner validates foundational, high-level understanding of AWS Cloud, services, and terminology. "_
+
+#### [Google Certified Cloud Digital Leader](https://www.credential.net/b6226a88-8bdb-4d9d-8ccf-1c54368ec198)
+_"This certification validates my ability to effectively articulate the capabilities of Google Cloud's core products and services, demonstrating an in-depth understanding of how they can be leveraged to fulfill organizational objectives. It demonstrates my proficiency in identifying common business use cases for cloud solutions, while underlining my foundational knowledge of cloud computing. This certification highlights my commitment to using Google Cloud products and services to drive success within an enterprise."_
+
 ## Work Experience
 
 **Company Name** (start-date to end-date)  
@@ -72,20 +75,16 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (April 2023 - July 2023)
+- Worked with test driven development using RSpec and Jest for integration and unit testing on a number of projects with CRUD functionality. Also worked with Cypress for component testing in React.
+- Followed Agile methodology while working in teams with other developers while developing full-stack applications from scratch, as well as from existing code bases.
+- Developed a strong understanding of Object Oriented Programming principles through a variety of projects and challenges in both Ruby and JavaScript.
+- Worked with closely with PostgreSQL and MondgoDB. The former in conjunction with Ruby and Sinatra for an Airbnb clone. The later in two larger MERN stack projects.
+- Became very comfortable creating and working on REST APIs using Node.js and Express.
 
-#### Your University / College (start_date to end_date)
+#### Bournemouth University ( January 2018 to July 2020)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSc. Retail Management and Marketing
 
 #### Any other qualifications
 
