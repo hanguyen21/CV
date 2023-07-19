@@ -41,36 +41,32 @@ _"This certification validates my ability to effectively articulate the capabili
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Makers Academy** (London|  March 2023 - July 2023 )  
+_Software Engineer Bootcamp_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+The course covered professional web development technologies such as: 
+- Ruby, HTML, CSS, Javascript,  SQL
+- NodeJs, Express, React
+- Test Driven Development,  Agile Methodology, Object-oriented design
 
 
-Here's an example
+**Westminster Adult Education Service** ( Jan 2023 - March 2023)  
+_Amazon Web Services (AWS) re/Start Training Programme_
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+The AWS re/Start programme is focused on valuable cloud infrastructure and software skills:
+- AWS Core Services and infrastructure components; IT fundamentals, AWS Cloud.
+- Built IT fundamental skills, including working knowledge of Linux OS, writing scripts in Python and Shell. 
+- Learned how to apply core AWS services in the area of compute, storage and networking, including EC2, S3, IAM, VPC, Lamda, Cloud Formation, RDS and Route 53 
+- Demonstrated strong verbal and written communication skills, including the ability to explain technical information and terminology to non-technical end users. 
 
-#### Another skill
+**Generation UK & Ireland** (London|  August 2022 - Nov 2022)  
+_Google Cloud Platform Engineer Training Programme_
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+The course covered professional web development technologies such as: 
+- Extensive experience with deploying processes for Content Management Systems involve deploying scripting steps, altering configuration files on Linux.
+- Ability to work independently to achieve Google Cloud Leader Certification and work in small groups to complete projects, labs and meet deadlines on time. 
+- Experience with using Python coding language to complete small projects on Replit.
 
-#### Another skill
 
 
 ## Education
@@ -86,10 +82,3 @@ I honed my communication skills while completing my thesis at university, which 
 
 - MSc. Retail Management and Marketing
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
