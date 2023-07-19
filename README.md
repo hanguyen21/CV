@@ -1,4 +1,4 @@
-## HA NGUYEN
+## [HA NGUYEN](https://www.linkedin.com/in/hannguyen22/)
 
 I have recently graduated from Makers Academy, having realised a lifelong passion for software development. I am passionate about Ruby and Javascript with a thirst for discovering new languages and frameworks.
 
