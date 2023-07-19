@@ -20,14 +20,14 @@ Throughout my career, I would always think of ways to improve our processes whil
 _"A solo project and small test-driven program to interact with the command line and log finances."_
 
 Here, I worked off acceptance criterias to create user stories and write a program in Ruby / RSpec using BDD and best OOP practices.
-### [Acebook] (https://github.com/hanguyen21/acebook-airbenders)
+### [Acebook](https://github.com/hanguyen21/acebook-airbenders)
 _"A web app inspired by Facebook."_
 
 In this group project, we used:
 - **Javascript** for the backend
 - **HTML/CSS** for the frontend
 - **Cypress/RSpec** for TDD
-- Database management with **MongoDB** and **Cloudinary**for media files
+- Database management with **MongoDB** and **Cloudinary** for media files
 - Deployed via **Render**
 ## Work Experience
 
