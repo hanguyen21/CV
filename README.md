@@ -8,13 +8,20 @@ I love programming as it gives me the freedom to create and innovate and it offe
 
 Throughout my career, I would always think of ways to improve our processes while keeping abreast of innovations in the sector and I am now particularly excited to be able to use my technical knowledge to build solutions to help solve real world problems, whether in my personal projects or in a workplace.
 
-
-
+## Projects 👨🏻‍💻
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
+
+### [Whatever the Weather](https://github.com/hanguyen21/Whatever-the-Weather)
+_"A travel app that gives you activity recommendations for each day of your trip, based on a live weather forecast."_
+
+In this group project, we used:
+- **Javascript** for the backend
+- **HTML/CSS** for the frontend
+- **Cypress/Jest** for TDD
 
 ### [Bank Tech Test](https://github.com/hanguyen21/Bank-tech-test)
 _"A solo project and small test-driven program to interact with the command line and log finances."_
@@ -26,7 +33,7 @@ _"A web app inspired by Facebook."_
 In this group project, we used:
 - **Javascript** for the backend
 - **HTML/CSS** for the frontend
-- **Cypress/RSpec** for TDD
+- **Cypress/Jest** for TDD
 - Database management with **MongoDB** and **Cloudinary** for media files
 - Deployed via **Render**
 ## Work Experience
